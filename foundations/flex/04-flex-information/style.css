@@ -15,7 +15,15 @@ img {
 .title-container {
   display: flex;
   justify-content: center;
+  margin: 32px;
 }
+
+.plants-information {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+
 
 /* do not edit this footer */
 .footer {
